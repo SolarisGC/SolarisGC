@@ -41,7 +41,7 @@ object **ROOTGC** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootgc&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://top.gg/bot/801225991242383361
+[website]: https://top.gg/bot/718210363014905866
 [twitter]: https://twitter.com/AcrobatJS
 [youtube]: https://www.youtube.com/c/igymvisuals/
 [instagram]: https://www.instagram.com/matheus_bortolucci/
