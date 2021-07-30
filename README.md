@@ -34,11 +34,11 @@ object **ROOTGC** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootgc&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootgc&theme=tokyonight&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootgc&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootgc&show_icons=true&theme=tokyonight&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 [website]: https://top.gg/bot/718210363014905866
