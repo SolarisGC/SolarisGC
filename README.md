@@ -4,7 +4,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="https://64.media.tumblr.com/0aff80d4982c09c50dfd828d4e094259/tumblr_ocfvx8nEdg1u718njo1_500.gifv" />
 
 ```kotlin
 object **ROOTGC** {
