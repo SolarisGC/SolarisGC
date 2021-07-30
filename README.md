@@ -42,7 +42,7 @@ object **ROOTGC** {
 </a>
 
 [website]: https://top.gg/bot/718210363014905866
-[twitter]: https://twitter.com/AcrobatJS
+[twitter]: https://twitter.com/SkedaddleGC_
 [youtube]: https://www.youtube.com/c/igymvisuals/
 [instagram]: https://www.instagram.com/matheus_bortolucci/
 [twitch]: https://www.twitch.tv/gymjs
