@@ -51,7 +51,7 @@ object **ROOTGC** {
 #### Rede Sociais!
 
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
+🐦[twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [twitch][twitch]
