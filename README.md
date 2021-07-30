@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Sou criador do bot revolucionario nomeado de Jeth, estou aqui liberando vários projetos interessantes para darem uma olhada, mas saibam, nunca chegaria aqui agora se não fosse pelas várias ajudas de vários maravilhosos developers que conheci, abraços Daniela.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
