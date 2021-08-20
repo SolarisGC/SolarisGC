@@ -1,4 +1,4 @@
-### Oie devs 👋
+### Oie devs <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 Sou criador do bot revolucionario nomeado de Jeth, estou aqui liberando vários projetos interessantes para darem uma olhada, mas saibam, nunca chegaria aqui agora se não fosse pelas várias ajudas de vários maravilhosos developers que conheci, abraços Daniela.
 
@@ -17,7 +17,7 @@ object **ROOTGC** {
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## ⭐️⭐️⭐️ **Linguagens e Ferramentas:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -31,28 +31,24 @@ object **ROOTGC** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-## **GitHub Estatísticas**
+## ⭐️⭐️⭐️ **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootgc&theme=tokyonight&hide_langs_below=1" />
+<a href="https://github.com/RootGC">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootgc&show_icons=true&theme=synthwave&line_height=27" alt="**RootGC** github stats"/>
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootgc&show_icons=true&theme=tokyonight&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/RootGC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootgc&theme=synthwave&layout=compact&hide_langs_below=1" />
 </a>
 
-[website]: https://top.gg/bot/718210363014905866
-[twitter]: https://twitter.com/SkedaddleGC_
-[youtube]: https://www.youtube.com/c/igymvisuals/
-[instagram]: https://www.instagram.com/matheus_bortolucci/
-[twitch]: https://www.twitch.tv/gymjs
 <br>
 
-#### Rede Sociais!
+# 🤝🏻 Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦[twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [twitch][twitch]
+Não deixe de me seguir aqui no GitHUB 😄
 
+<p align="center">
+&nbsp; <a href="https://twitter.com/SkedaddleGC_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/matheus_bortolucci/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="mailto:matheusbzo@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
