@@ -1,4 +1,4 @@
-### Oie devs <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+### Oie devs <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="25"></h2>
 
 Sou criador do bot revolucionario nomeado de Jeth, estou aqui liberando vários projetos interessantes para darem uma olhada, mas saibam, nunca chegaria aqui agora se não fosse pelas várias ajudas de vários maravilhosos developers que conheci, abraços Daniela.
 
