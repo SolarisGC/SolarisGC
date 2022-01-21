@@ -7,8 +7,8 @@ Sou desenvolvedora do bot revolucionario nomeado de Jeth, estou aqui liberando v
 <img align="right" width="300" src="https://64.media.tumblr.com/0aff80d4982c09c50dfd828d4e094259/tumblr_ocfvx8nEdg1u718njo1_500.gifv" />
 
 ```kotlin
-object **ROOTGC** {
- val name = "Solarius"
+object **SolarisGC** {
+ val name = "Unknown"
  val acknowledgements = "DISCORD.JS"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
