@@ -33,12 +33,12 @@ object **ROOTGC** {
 
 ## ⭐️⭐️⭐️ **GitHub Estatísticas**
 
-<a href="https://github.com/SolariusGC">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=solariusgc&show_icons=true&theme=synthwave&line_height=27" alt="**SolariusGC_** github stats"/>
+<a href="https://github.com/SolarisGC">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SolarisGC&show_icons=true&theme=synthwave&line_height=27" alt="**SolarisGC_** github stats"/>
 </a>
 
-<a href="https://github.com/SolariusGC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solariusgc&theme=synthwave&layout=compact&hide_langs_below=1" />
+<a href="https://github.com/SolarisGC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolarisGC&theme=synthwave&layout=compact&hide_langs_below=1" />
 </a>
 
 <br>
@@ -48,6 +48,6 @@ object **ROOTGC** {
 Não deixe de me seguir aqui no GitHUB 😄
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/SolariusGC_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> 
+&nbsp; <a href="https://twitter.com/SolarisGC_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> 
 &nbsp; <a href="mailto:appeals@jeth.az" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
