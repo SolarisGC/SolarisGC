@@ -33,12 +33,12 @@ object **ROOTGC** {
 
 ## ⭐️⭐️⭐️ **GitHub Estatísticas**
 
-<a href="https://github.com/RootGC">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootgc&show_icons=true&theme=synthwave&line_height=27" alt="**RootGC** github stats"/>
+<a href="https://github.com/SolariusGC">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=solariusgc&show_icons=true&theme=synthwave&line_height=27" alt="**SolariusGC_** github stats"/>
 </a>
 
-<a href="https://github.com/RootGC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootgc&theme=synthwave&layout=compact&hide_langs_below=1" />
+<a href="https://github.com/SolariusGC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solariusgc&theme=synthwave&layout=compact&hide_langs_below=1" />
 </a>
 
 <br>
