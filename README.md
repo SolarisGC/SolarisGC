@@ -48,3 +48,5 @@
 <a href="https://twitter.com/SolarisGC_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-SolarisGC_-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:support.discord@jeth.live"><img alt="Email" src="https://img.shields.io/badge/Email-support.discord@jeth.live-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
