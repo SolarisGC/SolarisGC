@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/www.followchain.org/wp-content/uploads/2022/01/JavaScript_frameworks-amico_30.png?fit=600%2C600&ssl=1" align="right">
+<img src="https://i0.wp.com/www.followchain.org/wp-content/uploads/2022/01/JavaScript_frameworks-amico_30.png?fit=600%2C600&ssl=4" align="right">
 
 <h2> Hey there! I'm Solaris</h2>
 
