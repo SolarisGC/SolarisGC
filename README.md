@@ -1,4 +1,4 @@
-<img src="https://payload.cargocollective.com/1/22/708406/14158876/ALI.gif" align="right">
+<img src="https://media1.giphy.com/avatars/doodlesbyburnttoast/dMqxHmPPA8fd.gif" align="right">
 
 <h2> Hey there! I'm Solaris</h2>
 
