@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/RFFhra4.png" align="right"
-     width="500" 
-     height="500">
+     width="450" 
+     height="450">
 
 <h2> Hey there! I'm Solaris</h2>
 
