@@ -1,3 +1,8 @@
+<img src="https://i.imgur.com/RFFhra4.png" align="right"
+     width="500" 
+     height="500">
+
+
 <h2> Hey there! I'm Solaris</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -6,10 +11,6 @@
 - 🎓 &nbsp; Studying Computer Science and Robotic.
 - 💼 &nbsp; Working as a Chief Executive Officer at Jeth's Discord project.
 - ✍️ &nbsp; Writing my own stories and making my life better.
-
-<img src="https://i.imgur.com/RFFhra4.png" align="right"
-     width="500" 
-     height="500">
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
